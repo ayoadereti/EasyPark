@@ -6,6 +6,8 @@ An on-campus (UTD) parking solution. Go Comets!
 
 You will need to install and configure XAMPP on your machine to run this program. You can find and download the appropriate version of XAMPP from this link: https://www.apachefriends.org/
 
+![xampp](data/xampp,png)
+
 ## Installation 
 
 1. Once the installer is finished, launch the XAMPP Control Panel contained in the application folder 
