@@ -20,8 +20,10 @@ You will need to install and configure XAMPP on your machine to run this program
 
 2. Navigate to “Manage Server” and start all servers
 
-<img src="data/images/manage_server.png" width="500" height="325"/>
-<img src="data/images/start_server.png" width="500" height="325"/>
+<p align="center">
+  <img src="data/images/manage_server.png" width="500" height="325"/>
+  <img src="data/images/start_server.png" width="500" height="325"/>
+</p>
 
 3. Place all source code from the unzipped file's /project folder in the application’s “htdocs” folder
 
