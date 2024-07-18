@@ -31,7 +31,8 @@ You will need to install and configure XAMPP on your machine to run this program
   <img src="data/images/htdocs.png"/>
 </p>
 
-4. Navigate to the XAMPP homepage and launch phpMyAdmin: http://localhost/. Specify the port associated with the Apache Web Server if necessary. This can be checked through the Control Panel in the server’s configurations.
+4. Navigate to the XAMPP homepage and launch phpMyAdmin: http://localhost/. 
+Specify the port associated with the Apache Web Server if necessary. This can be checked through the Control Panel in the server’s configurations.
 
 5. Navigate to the “Databases” tab in phpMyAdmin and create a new database named “EasyPark”
 
