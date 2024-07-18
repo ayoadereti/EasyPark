@@ -1,5 +1,5 @@
 # EasyPark
-An on-campus parking solution. Go Comets!
+An on-campus (UTD) parking solution. Go Comets!
 
 # Getting Started 
 ## Prerequisites 
