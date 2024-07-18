@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Reservation</title>
+    <link rel="stylesheet" href="css/pico.indigo.min.css" />
+</head>
+<body>
+    <div class="container" style="margin-top:100px; width:50%; margin-left: 75px;">
+        <h1>Create Reservation</h1>
+        <form action="create_reservation.php" method="post"> <!--    create php form in next phase for this     -->
+            <label for="start_time">Start Time:</label>
+            <input type="datetime-local" id="start_time" name="start_time" required><br><br>
+
+            <label for="end_time">End Time:</label>
+            <input type="datetime-local" id="end_time" name="end_time" required><br><br>
+
+            <label for="lot_location">Lot Location:</label>
+            <select id="lot_location" name="lot_location">
+                <option value="Lot A">Lot A</option>
+                <option value="Lot B">Lot B</option>
+                <option value="Lot C">Lot C</option>
+                <option value="Lot D">Lot D</option>
+            </select><br><br>
+
+            <label for="spot_num">Spot Number:</label>
+            <input type="number" id="spot_num" name="spot_num" required><br><br>
+
+            <label for="distance_filter">Distance Filter (miles):</label>
+            <input type="number" id="distance_filter" name="distance_filter" min="0" step="0.1"><br><br>
+
+            <input type="submit" value="Submit Reservation">
+        </form>
+        <p>
+        <button onclick="location.href='view_availability.html';">View Available Spots</button>
+        <button onclick="location.href='main_menu.html';">Return Home</button>
+        </p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="css/pico.indigo.min.css" />
+</head>
+<body>
+    <div class="container" style="margin-top:100px; width:50%; margin-left: 75px;">
+        <h1>Create Login</h1>
+        <form action="user_data.php" method="post"> <!--    create php form in next phase for this instead    -->
+            <label for="utd_id">UTD ID:</label>
+            <input type="text" id="username" name="utd_id" required><br><br>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required><br><br>
+            
+            <label for="fname">First Name:</label>
+            <input type="text" id="Fname" name="fname" required><br><br>
+
+            <label for="lname">Last Name:</label>
+            <input type="text" id="Lname" name="lname" required><br><br>
+
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="email" required><br><br>
+
+            <label for="phone_num">Phone Number:</label>
+            <input type="text" id="Phone_num" name="phone_num" required><br><br>
+
+            <input type="submit" value="Register">
+        </form>
+    </div>
+    <button onclick="location.href='homepage.html';">Discard</button>
+</body>
+</html>
