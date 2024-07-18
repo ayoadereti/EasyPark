@@ -20,6 +20,9 @@ You will need to install and configure XAMPP on your machine to run this program
 
 2. Navigate to “Manage Server” and start all servers
 
+<img src="data/images/manage_server.png" width="500" height="325"/>
+<img src="data/images/start_server.png" width="500" height="325"/>
+
 3. Place all source code from the unzipped file's /project folder in the application’s “htdocs” folder
 
 4. Navigate to the XAMPP homepage and launch phpMyAdmin: http://localhost/. Specify the port associated with the Apache Web Server if necessary. This can be checked through the Control Panel in the server’s configurations.
