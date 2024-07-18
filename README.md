@@ -14,6 +14,8 @@ You will need to install and configure XAMPP on your machine to run this program
 
 ![folder](data/app_folder.png)
 
+<img src="data/launch_xampp.png" width="64"/>
+
 ![launch](data/launch_xampp.png)
 
 3. Navigate to “Manage Server” and start all servers 
