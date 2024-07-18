@@ -11,8 +11,10 @@ You will need to install and configure XAMPP on your machine to run this program
 ## Installation 
 
 1. Once the installer is finished, launch the XAMPP Control Panel contained in the application folder 
+
 ![folder](data/app_folder.png)
-![launch](data/xampp_launch.png)
+
+![launch](data/launch_xampp.png)
 
 3. Navigate to “Manage Server” and start all servers 
 
