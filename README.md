@@ -14,7 +14,9 @@ You will need to install and configure XAMPP on your machine to run this program
 
 ![folder](data/app_folder.png)
 
-<img align="center" src="data/launch_xampp.png" width="500"/>
+<p align="center">
+  <img src="data/launch_xampp.png" width="500"/>
+</p>
 
 ![launch](data/launch_xampp.png)
 
