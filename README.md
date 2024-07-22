@@ -25,7 +25,7 @@ You will need to install and configure XAMPP on your machine to run this program
   <img src="data/images/start_server.png" width="500" height="325"/>
 </p>
 
-3. Place all source code from the unzipped file's /project folder in the application’s “htdocs” folder
+3. Place all project source code in the application’s “htdocs” folder
 
 <p align="center">
   <img src="data/images/htdocs.png"/>
